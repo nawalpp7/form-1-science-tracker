@@ -1,0 +1,147 @@
+{
+    "donald": {
+        "Scientific Skills": [
+            70,
+            86
+        ],
+        "Cell": [
+            60,
+            97
+        ],
+        "Coordination and Response": [
+            80,
+            57
+        ],
+        "Reproduction": [
+            100,
+            77
+        ],
+        "Matter": [
+            67,
+            98
+        ],
+        "Periodic Table": [
+            89,
+            66
+        ],
+        "Air": [
+            90,
+            75
+        ],
+        "Heat": [
+            90,
+            75,
+            75
+        ]
+    },
+    "Rebecca": {
+        "Scientific Skills": [
+            90
+        ],
+        "Cell": [
+            90
+        ],
+        "Coordination and Response": [
+            75,
+            90
+        ],
+        "Reproduction": [
+            90
+        ],
+        "Matter": [
+            90
+        ],
+        "Periodic Table": [
+            90,
+            67
+        ],
+        "Air": [
+            78
+        ],
+        "Heat": [
+            66
+        ]
+    },
+    "Aiman": {
+        "Scientific Skills": [
+            89
+        ],
+        "Cell": [
+            78
+        ],
+        "Coordination and Response": [
+            66
+        ],
+        "Reproduction": [
+            99
+        ],
+        "Matter": [
+            67
+        ],
+        "Periodic Table": [
+            55
+        ],
+        "Air": [
+            89
+        ],
+        "Heat": [
+            90
+        ]
+    },
+    "Jonathan": {
+        "Scientific Skills": [
+            44
+        ],
+        "Cell": [
+            76
+        ],
+        "Coordination and Response": [
+            34
+        ],
+        "Reproduction": [
+            31
+        ],
+        "Matter": [
+            65
+        ],
+        "Periodic Table": [
+            45
+        ],
+        "Air": [
+            12,
+            30
+        ],
+        "Heat": [
+            42
+        ]
+    },
+    "Syafiq": {
+        "Scientific Skills": [
+            78
+        ],
+        "Cell": [
+            67
+        ],
+        "Coordination and Response": [
+            90
+        ],
+        "Reproduction": [
+            56
+        ],
+        "Matter": [
+            66
+        ],
+        "Periodic Table": [
+            50
+        ],
+        "Air": [
+            50
+        ],
+        "Heat": [
+            78,
+            78,
+            78,
+            78
+        ]
+    }
+}
