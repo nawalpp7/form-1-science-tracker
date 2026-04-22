@@ -48,10 +48,6 @@ def weakest_topic(student):
 
 st.title("Form 1 Science Tracker")
 
-# =========================
-# SIDEBAR - CONTROL PANEL
-# =========================
-
 # ---------- STUDENT MANAGEMENT ----------
 st.sidebar.header("Student Management")
 
